@@ -3,6 +3,7 @@ plugins {
 }
 
 android {
+    namespace 'com.cbtgozion'
     compileSdk 33
 
     defaultConfig {
